@@ -6,7 +6,7 @@ public class ATM {
 
         Scanner sc=new Scanner(System.in);
 
-        Bank theBank=new Bank("Bank of Garanti");
+        Bank theBank=new Bank("Ziraat Bankası");
 
         User aUser=theBank.addUser("Mehmet","Karan","1234");
 
